@@ -3,7 +3,7 @@
 ### Objectifs :
 
 ##### 1. Mettre en oeuvre les technologies pour créer ou héberger mon portfolio.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/langfr-110px-Apache_NetBeans_Logo.svg.png" width="90" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/langfr-110px-Apache_NetBeans_Logo.svg.png" width="100" height="100" />
 
 
 - **Netbeans** : Environment de développement intégré (IDE) utilisé pour ce projet
