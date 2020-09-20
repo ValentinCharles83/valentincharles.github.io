@@ -1,5 +1,3 @@
-.jumbotron.p{
-    float:right;
-}
-#portfolio-texte{
+.jumbotron img {
+    float : left;
 }
